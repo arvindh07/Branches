@@ -1,1 +1,2 @@
 conflict by master branch
+conflict by conflict branch
